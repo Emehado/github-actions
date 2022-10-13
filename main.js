@@ -1,10 +1,10 @@
 const hello = () => {
-  console.log("Hello")
+  console.log('Hello')
 }
 
-const bye=()=>{
-  console.log('bye')
+const bye = () => {
+  console.log('bye now')
 }
 
-hello();
+hello()
 bye()
